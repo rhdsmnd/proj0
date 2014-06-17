@@ -1,5 +1,10 @@
-The files here are a suggested skeleton for your solution.  Change
-them in any way you want, as long as the command
+
+A class project that represents an enigma machine.
+
+_______
+
+
+The command:
 
      java enigma.Main
 
